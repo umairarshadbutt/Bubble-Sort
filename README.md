@@ -2,13 +2,18 @@
 
 > Bubble Sort algorithm is developed in ruby.
 
+The following project is the Ruby Implementation of the Bubble Sort algorithm. It contains the following:
+- It is a shell program.
+- The bubble sort algorithm accepts an array as an argument.
+- The array is then sorted in ascending order. This happens irrespective of what objects are stored in the array.
+
 ## Built With
 
 - Ruby
 
 ## Live Demo
-
-To see a preview of the actual project, check out the [Live Demo Link](https://rawcdn.githack.com/umairarshadbutt/News-Week-Clone/c66dd9ea0af890bf9a8a52e708498da7c554934e/index.html)
+Check out the project: 
+[Live Demo Link](https://repl.it/join/syoidxyj-kelynpaul)
 
 
 ## Getting Started
