@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 - Open Terminal
 - Change directory to folder to download repository
 - Use `cd <file-path>`
-- Run `git clone https://github.com/ozovalihasan/bubble-sort.git`
+- Run `git clone https://github.com/umairarshadbutt/Bubble-Sort`
 - Install [Ruby](https://ruby-doc.org/downloads/)
 - Run `ruby main.rb`
 
