@@ -1,4 +1,3 @@
-
 number_array = [2,100,2,887,7,88,3,22,333,33333,12111,33434,546576576,6788799,4564534]
 def bubble_sort(array)
      puts "Unsorted array : #{array}" 
