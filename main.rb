@@ -8,7 +8,6 @@ def bubble_sort(array)
   end
   puts "Sorted array : #{array}"
 end
-
 def bubble_sort_by(array)
   puts "Unsorted array : #{array}"
   (0..array.length - 1).each do
