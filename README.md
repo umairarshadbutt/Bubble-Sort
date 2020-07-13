@@ -15,7 +15,6 @@ The following project is the Ruby Implementation of the Bubble Sort algorithm. I
 Check out the project: 
 [Live Demo Link](https://repl.it/join/syoidxyj-kelynpaul)
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
